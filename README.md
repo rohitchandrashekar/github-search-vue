@@ -1,6 +1,6 @@
 # Simple Rest API's to search github
 
-This project was built using Node.js, Express, Chai, Mocha and TypeScript
+This project was built using Node.js, Express, Chai, Mocha, Vue and Javascript
 
 ## Requirements
 
