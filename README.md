@@ -43,5 +43,3 @@ Follow readme in client
 ```
 
 The default URL is: *https://localhost:3000*
-
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/4cd04da59f895c3534b6)
