@@ -10,6 +10,9 @@ This project was built using Node.js, Express, Chai, Mocha and TypeScript
 
 ## Clone this repository
 
+```
+git@github.com:rohitchandrashekar/github-search-vue.git
+```
 
 Then install the dependencies
 
