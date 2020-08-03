@@ -31,10 +31,10 @@ Run in development mode
 npm run dev
 ```
 
-Run in production mode 
+Test the Code
 
 ```
-npm run prod
+npm run test
 ```
 ## Start the client
 Follow readme in client
